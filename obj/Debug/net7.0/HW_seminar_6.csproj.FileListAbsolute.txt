@@ -1,0 +1,15 @@
+C:\git\HomeworkC#\HW_seminar_6\bin\Debug\net7.0\HW_seminar_6.exe
+C:\git\HomeworkC#\HW_seminar_6\bin\Debug\net7.0\HW_seminar_6.deps.json
+C:\git\HomeworkC#\HW_seminar_6\bin\Debug\net7.0\HW_seminar_6.runtimeconfig.json
+C:\git\HomeworkC#\HW_seminar_6\bin\Debug\net7.0\HW_seminar_6.dll
+C:\git\HomeworkC#\HW_seminar_6\bin\Debug\net7.0\HW_seminar_6.pdb
+C:\git\HomeworkC#\HW_seminar_6\obj\Debug\net7.0\HW_seminar_6.csproj.AssemblyReference.cache
+C:\git\HomeworkC#\HW_seminar_6\obj\Debug\net7.0\HW_seminar_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\HomeworkC#\HW_seminar_6\obj\Debug\net7.0\HW_seminar_6.AssemblyInfoInputs.cache
+C:\git\HomeworkC#\HW_seminar_6\obj\Debug\net7.0\HW_seminar_6.AssemblyInfo.cs
+C:\git\HomeworkC#\HW_seminar_6\obj\Debug\net7.0\HW_seminar_6.csproj.CoreCompileInputs.cache
+C:\git\HomeworkC#\HW_seminar_6\obj\Debug\net7.0\HW_seminar_6.dll
+C:\git\HomeworkC#\HW_seminar_6\obj\Debug\net7.0\refint\HW_seminar_6.dll
+C:\git\HomeworkC#\HW_seminar_6\obj\Debug\net7.0\HW_seminar_6.pdb
+C:\git\HomeworkC#\HW_seminar_6\obj\Debug\net7.0\HW_seminar_6.genruntimeconfig.cache
+C:\git\HomeworkC#\HW_seminar_6\obj\Debug\net7.0\ref\HW_seminar_6.dll
